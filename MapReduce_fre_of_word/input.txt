@@ -1,0 +1,2 @@
+Big data is the future.
+Big data technologies like Hadoop and Spark process big data efficiently.
